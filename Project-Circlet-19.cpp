@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	int i,o,s;//i=j,o=i,s=k
+	int i,o,s;
 	for(o=5;o>=1;o--)
      {
        for(i=1;i<=o;i++)
